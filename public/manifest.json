@@ -1,0 +1,22 @@
+{
+    "name": "My PWA",
+    "short_name": "my-pwa-app",
+    "icons": [
+        {
+            "src": "/img/favicons/icon-76x76.png",
+            "sizes": "76x76",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/img/favicons/icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url": "/dashboard",
+    "display": "standalone",
+    "orientation": "portrait"
+}
